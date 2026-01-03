@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="n_cVIWrOFp1CkX-cEb47">
-    <mxGraphModel dx="6407" dy="5131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="5728" dy="4732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,7 +319,7 @@
           <mxGeometry height="80" width="120" x="-1380" y="-324.96" as="geometry" />
         </mxCell>
         <mxCell id="clnxxdReU9jr2qYETeRo-16" parent="1" style="ellipse;align=center;fontSize=18;fillColor=#F1F5F9;strokeColor=#2E2E2E;strokeWidth=3;fontStyle=0;fontColor=light-dark(#000000,#EDEDED);labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;spacingTop=0;snapToPoint=0;metaEdit=0;linecap=round;shadow=0;fontFamily=Comic Sans MS;" value="current_stock_qty" vertex="1">
-          <mxGeometry height="80" width="163" x="1200" y="-450" as="geometry" />
+          <mxGeometry height="80" width="180" x="1185" y="-451.96" as="geometry" />
         </mxCell>
         <mxCell id="bNdTzwmJLPU7_qZS9a5o-67" parent="1" style="ellipse;strokeWidth=3;fontSize=18;fillColor=#F1F5F9;strokeColor=#2E2E2E;fontStyle=0;align=center;fontColor=light-dark(#000000,#EDEDED);labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;spacingTop=0;snapToPoint=0;metaEdit=0;linecap=round;shadow=0;fontFamily=Comic Sans MS;" value="college_name" vertex="1">
           <mxGeometry height="80" width="120" x="-1247" y="-324.96" as="geometry" />
